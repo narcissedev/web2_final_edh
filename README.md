@@ -21,7 +21,8 @@ EDH Zero Papier est une application web moderne conçue pour la gestion numériq
 
 ### Déploiement
 - **Vercel** - Hébergement et déploiement continu
-- **URL de production**: https://zeropapier2.vercel.app
+- **URL de production**: https://web2-final-edh-seven.vercel.app/
+- 
 
 ## 👥 Équipe et Contributions
 
